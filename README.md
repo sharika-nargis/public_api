@@ -45,3 +45,6 @@ Step 5: (Optional) Create a Run Configuration
 > Parameters: -d output tests/sample_test.robot
 > Working directory: Project root
 >> Click OK and then Run
+
+## 🙏 Credits
+Special thanks to Sharika Nargis for the excellent tutorial series.
