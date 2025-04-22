@@ -47,4 +47,4 @@ Step 5: (Optional) Create a Run Configuration
 >> Click OK and then Run
 
 ## 🙏 Credits
-Special thanks to Sharika Nargis for the excellent tutorial series.
+Special thanks to Sharika Nargis.
